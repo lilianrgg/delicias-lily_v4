@@ -1,0 +1,29 @@
+{
+  "name": "delicias-lily",
+  "version": "1.0.0",
+  "description": "paquete de configuracion",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lilianrgg@bitbucket.org/lilianrgg/delicias-lily.git"
+  },
+  "author": "liliangomez",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/lilianrgg/delicias-lily#readme",
+  "devDependencies": {
+    "http-proxy-middleware": "^1.0.4",
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "connect-history-api-fallback": "^1.6.0",
+    "ios-icon-list": "^1.1.0",
+    "jquery": "^3.5.1",
+    "open-iconic": "^1.1.1",
+    "popper.js": "^1.16.1"
+  }
+}
